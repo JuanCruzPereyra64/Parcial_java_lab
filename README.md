@@ -1,5 +1,5 @@
 # Parcial_java_lab
-Este es el parcial de la materia Programacion 2 laboratorio, realizado en java por Juan Cruz Pereyra Muñoz.
+Parcial de la materia Programacion 2 laboratorio, realizado en java por Juan Cruz Pereyra Muñoz.
 
 Sistema de Gestión de Biblioteca en Java (Consola + JDBC + H2)
 
@@ -12,9 +12,7 @@ Cómo ejecutar:
 - Java 17 o superior
 - Gradle instalado (opcional, incluye wrapper)
 
-2. Clonar repositorio:
-git clone https://github.com/tuusuario/biblioteca-java.git
-cd biblioteca-java
+2. Clonar repositorio
 
 3. Compilar y ejecutar:
 ./gradlew run
